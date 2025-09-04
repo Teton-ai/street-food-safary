@@ -73,7 +73,7 @@ npm install
 npm run dev
 ```
 
-Server runs at <http://localhost:3333>.
+Server runs at <http://localhost:3333>. You can find a Postman collection in the `/postman` folder to explore the endpoints.
 
 ## Final Words
 
